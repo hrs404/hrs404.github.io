@@ -2693,7 +2693,7 @@ input[type='submit'], button[type='button'] {
   border-radius: 5px;
 }
 
-.social-list .list-item a.fa-facebook {
+.social-list .list-item a.fa-github {
   background: #3b5998;
 }
 
@@ -4780,7 +4780,7 @@ ul.list-reset {
   color: #fff;
 }
 
-.article-share .social-item .fa-facebook {
+.article-share .social-item .fa-github {
   background: #3b5998;
 }
 
